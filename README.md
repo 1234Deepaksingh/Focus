@@ -1,7 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>my-first-website</title>
-<LINK href="styles.css" rel="stylesheet" type="text/css">
+    <title>My Website</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            background: #eaf2ff;
+            padding: 80px 20px;
+        }
+        h1 {
+            color: blue;
+        }
+    </style>
 </head>
+<body>
+    <h1>Welcome to My Website!</h1>
+    <p>My website is successfully live!</p>
+</body>
+</html>
